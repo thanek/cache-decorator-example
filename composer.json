@@ -1,0 +1,16 @@
+{
+    "name": "xis/events",
+    "require": {
+    },
+    "authors": [
+        {
+            "name": "xis",
+            "email": "xis@schowek.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": [ "src/" ]
+        }
+    }
+}
